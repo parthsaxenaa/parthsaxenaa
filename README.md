@@ -25,6 +25,7 @@ I'm a Computer Science student specializing in AI/ML. Here are some technologies
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=parthsaxenaa&show_icons=true&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=parthsaxenaa&theme=highcontrast" height="150" alt="GitHub Streak" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthsaxenaa&layout=compact)](https://github.com/parthsaxenaa/github-readme-stats)
   
 
