@@ -1,4 +1,4 @@
-![header](https://github.com/user-attachments/assets/c371fbc3-60ff-4fe1-be8a-23ab03aeafde) <!-- Replace with your new banner link -->
+![header](https://github.com/parthsaxenaa/parthsaxenaa/blob/main/Screenshot%202025-02-15%20171020.png) <!-- Replace with your new banner link -->
 
 <div>
   <h1>
