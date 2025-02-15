@@ -50,7 +50,6 @@
         <img src="https://img.icons8.com/ios/50/ffffff/artificial-intelligence.png" width="40" alt="AI"> &nbsp;
         <img src="https://img.icons8.com/?size=100&id=419&format=png&color=ffffff" width="40" alt="Machine Learning"> &nbsp;
         <img src="https://img.icons8.com/ios/50/ffffff/data-configuration.png" width="40" alt="Data Science"> &nbsp;
-        
       </td>
     </tr>
     <tr>
