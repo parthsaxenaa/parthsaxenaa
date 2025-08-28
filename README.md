@@ -8,10 +8,16 @@
 <div>
   <h1>
     <img src="about_me.gif" width="50px"><b> About Me </b>
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=parthsaxenaa.parthsaxenaa">
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nihalawasthi.nihalawasthi">
 </h1>
 </div>
 🤖 AI/ML enthusiast specializing in Machine Learning, Deep Learning, and Data Science. Passionate about building intelligent systems, solving complex problems, and leveraging data-driven solutions.
+
+---
+## 🏆 GitHub Achievements  
+<div align="center">  
+  <img src="https://github-trophy.vercel.app/?username=Navneetg2003&margin-w=10&theme=radical">
+</div>  
 
 ---
 
