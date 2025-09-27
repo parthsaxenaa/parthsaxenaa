@@ -3,7 +3,7 @@
 ### 🚀 ***Parth Saxena | Software Developer***
 🔹 Python | Data scinece | MERN | Machine Learning 
 🔹 Passionate about building scalable solutions  
-![header](https://github.com/parthsaxenaa/parthsaxenaa/blob/main/Screenshot%202025-02-15%20171020.png) <!-- Replace with your new banner link -->
+ <!-- Replace with your new banner link -->
 
 <div>
   <h1>
