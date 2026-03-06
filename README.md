@@ -34,66 +34,107 @@
 <div align="center"> <img src="https://github-trophy.vercel.app/?username=parthsaxenaa&margin-w=10"></div>
 <hr>
 
-<table border="none" style="display: flex;">
- <tr><td><table width="45%">
-    <tr>
-      <th>Category</th>
-      <th>Skills</th>
-    </tr>
-    <tr>
-      <td><b>Programming Languages</b></td>
-      <td>
-        <img src="https://img.icons8.com/?size=100&id=55204&format=png&color=ffffff" width="40" alt="C#"> &nbsp;
-        <img src="https://img.icons8.com/ios/50/ffffff/c-plus-plus-logo.png" width="40" alt="C++"> &nbsp;
-        <img src="https://img.icons8.com/ios/50/ffffff/python.png" width="40" alt="Python"> &nbsp;
-      </td>
-    </tr>
-    <tr>
-      <td><b>Backend Development</b></td>
-      <td>
-        <img src="https://img.icons8.com/ios/50/ffffff/django.png" width="40" alt="Django"> &nbsp;
-        <img src="https://img.icons8.com/ios/50/ffffff/php.png" width="40" alt="PHP"> &nbsp;
-        <img src="https://img.icons8.com/?size=100&id=25010&format=png&color=ffffff" width="40" alt="PostgreSQL"> &nbsp;
-        <img src="https://img.icons8.com/ios/50/ffffff/mysql.png" width="40" alt="MySQL"> &nbsp;
-      </td>
-    </tr>
-    <tr>
-      <td><b>AI/ML</b></td>
-      <td>
-        <img src="https://img.icons8.com/ios/50/ffffff/artificial-intelligence.png" width="40" alt="AI"> &nbsp;
-        <img src="https://img.icons8.com/?size=100&id=419&format=png&color=ffffff" width="40" alt="Machine Learning"> &nbsp;
-        <img src="https://img.icons8.com/ios/50/ffffff/data-configuration.png" width="40" alt="Data Science"> &nbsp;
-      </td>
-    </tr>
-    <tr>
-      <td><b>DevOps/Version Control</b></td>
-      <td>
-        <img src="https://img.icons8.com/ios/50/ffffff/git.png" width="40" alt="Git"> &nbsp;
-        <img src="https://img.icons8.com/ios/50/ffffff/github.png" width="40" alt="GitHub Pages"> &nbsp;
-      </td>
-    </tr>
-  </table></td><td>
-  <table width="45%">
-    <tr>
-      <th>Category</th>
-      <th>Skills</th>
-    </tr>
-    <tr>
-      <td><b>Front-End Development</b></td>
-      <td>
-        <img src="https://img.icons8.com/ios/50/ffffff/html-5.png" width="40" alt="HTML5"> &nbsp;
-        <img src="https://img.icons8.com/ios/50/ffffff/css3.png" width="40" alt="CSS3"> &nbsp;
-        <img src="https://img.icons8.com/ios/50/ffffff/javascript.png" width="40" alt="JavaScript"> &nbsp;
-      </td>
-    </tr>
-    <tr>
-      <td><b>Extras</b></td>
-      <td>
-        <img src="https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=ffffff" width="40" alt="Shell Script">
-        &nbsp;
-        <img src="https://img.icons8.com/ios/50/ffffff/powershell.png" width="40" alt="PowerShell"> &nbsp;
-        <img src="https://img.icons8.com/ios/50/ffffff/markdown.png" width="40" alt="Markdown">&nbsp;
-      </td>
-    </tr>
-  </table></td></tr>
+<<table border="none" style="display:flex;">
+<tr>
+
+<td>
+
+<table width="45%">
+<tr>
+<th>Category</th>
+<th>Skills</th>
+</tr>
+
+<tr>
+<td><b>Programming Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python" width="40"> &nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" width="40"> &nbsp;
+<img src="https://img.icons8.com/color/48/r-project.png" width="40"> 
+</td>
+</tr>
+
+<tr>
+<td><b>Machine Learning</b></td>
+<td>
+<img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40"> &nbsp;
+<img src="https://img.icons8.com/color/48/data-science.png" width="40"> &nbsp;
+<img src="https://img.icons8.com/color/48/decision-tree.png" width="40"> &nbsp;
+<img src="https://img.icons8.com/color/48/analytics.png" width="40">
+</td>
+</tr>
+
+<tr>
+<td><b>Deep Learning</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=pytorch" width="40"> &nbsp;
+<img src="https://skillicons.dev/icons?i=tensorflow" width="40"> &nbsp;
+<img src="https://img.icons8.com/color/48/neural-network.png" width="40"> &nbsp;
+<img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40">
+</td>
+</tr>
+
+<tr>
+<td><b>Data Science</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python" width="40"> &nbsp;
+<img src="https://img.icons8.com/color/48/pandas.png" width="40"> &nbsp;
+<img src="https://img.icons8.com/color/48/numpy.png" width="40"> &nbsp;
+<img src="https://img.icons8.com/color/48/combo-chart.png" width="40">
+</td>
+</tr>
+
+</table>
+
+</td>
+
+<td>
+
+<table width="45%">
+<tr>
+<th>Category</th>
+<th>Skills</th>
+</tr>
+
+<tr>
+<td><b>Generative AI</b></td>
+<td>
+<img src="https://img.icons8.com/color/48/chatgpt.png" width="40"> &nbsp;
+<img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40"> &nbsp;
+<img src="https://img.icons8.com/color/48/chatbot.png" width="40">
+</td>
+</tr>
+
+<tr>
+<td><b>LLM Frameworks</b></td>
+<td>
+<img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40"> &nbsp;
+<img src="https://img.icons8.com/color/48/api-settings.png" width="40"> &nbsp;
+<img src="https://img.icons8.com/color/48/chatbot.png" width="40">
+</td>
+</tr>
+
+<tr>
+<td><b>LangChain Ecosystem</b></td>
+<td>
+<img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40"> &nbsp;
+<img src="https://img.icons8.com/color/48/database.png" width="40"> &nbsp;
+<img src="https://img.icons8.com/color/48/flow-chart.png" width="40">
+</td>
+</tr>
+
+<tr>
+<td><b>Dev Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git" width="40"> &nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="40"> &nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="40"> 
+</td>
+</tr>
+
+</table>
+
+</td>
+
+</tr>
 </table>
