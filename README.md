@@ -33,7 +33,7 @@ Machine Learning • Deep Learning • LLMs • LangChain • Generative AI
 
 <p align="center">
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*9N2m7n1HULICwhf66A1VpA.png" width="750">
+<img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_stack.png" width="750"/>
 
 </p>
 
