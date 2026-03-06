@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Devanagari&weight=500&size=24&pause=1000&color=F78C3EE0&background=FFD49D00&width=435&lines=+%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%2C+%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%97%E0%A4%A4%E0%A4%AE%E0%A5%8D)](https://git.io/typing-svg)
 
-### 🚀 ***Parth Saxena | Software Developer***
+
 🔹 Python | Data scinece | Gen AI | Machine Learning 
 🔹 Passionate about building scalable solutions  
  <!-- Replace with your new banner link -->
