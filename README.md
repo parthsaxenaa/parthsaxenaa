@@ -158,6 +158,3 @@ Machine Learning • Deep Learning • LLMs • LangChain • Generative AI
 
 </p>
 
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/parthsaxenaa/parthsaxenaa/output/snake.svg"/>
