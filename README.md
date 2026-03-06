@@ -157,3 +157,7 @@ Machine Learning • Deep Learning • LLMs • LangChain • Generative AI
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthsaxenaa&theme=tokyonight">
 
 </p>
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/parthsaxenaa/parthsaxenaa/output/snake.svg"/>
