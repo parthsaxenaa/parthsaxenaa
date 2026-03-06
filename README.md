@@ -27,6 +27,13 @@
 Machine Learning • Deep Learning • LLMs • LangChain • Generative AI
 
 </p>
+## 🔗 LLM & LangChain Pipeline
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_stack.png" width="750">
+
+</p>
 
 ## 🏆 GitHub Achievements  
 <div align="center">  
