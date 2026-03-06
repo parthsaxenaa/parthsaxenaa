@@ -41,8 +41,6 @@ Machine Learning • Deep Learning • LLMs • LangChain • Generative AI
   <img src="https://streak-stats.demolab.com/?user=parthsaxenaa&theme=tokyonight&hide_border=false" height="150" alt="GitHub Streak" />
   &nbsp;
  
- 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthsaxenaa&theme=react-dark&custom_title=Contribution%20Graph&hide_border=true&hide_border=false&count_private=true" height="150" alt="GitHub Stats"   />
 </div>
 
 <hr>
@@ -73,8 +71,7 @@ Machine Learning • Deep Learning • LLMs • LangChain • Generative AI
 <td><b>Machine Learning</b></td>
 <td>
 <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40"> &nbsp;
-<img src="https://img.icons8.com/color/48/data-science.png" width="40"> &nbsp;
-<img src="https://img.icons8.com/color/48/decision-tree.png" width="40"> &nbsp;
+
 <img src="https://img.icons8.com/color/48/analytics.png" width="40">
 </td>
 </tr>
@@ -84,7 +81,6 @@ Machine Learning • Deep Learning • LLMs • LangChain • Generative AI
 <td>
 <img src="https://skillicons.dev/icons?i=pytorch" width="40"> &nbsp;
 <img src="https://skillicons.dev/icons?i=tensorflow" width="40"> &nbsp;
-<img src="https://img.icons8.com/color/48/neural-network.png" width="40"> &nbsp;
 <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40">
 </td>
 </tr>
@@ -116,7 +112,7 @@ Machine Learning • Deep Learning • LLMs • LangChain • Generative AI
 <td>
 <img src="https://img.icons8.com/color/48/chatgpt.png" width="40"> &nbsp;
 <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40"> &nbsp;
-<img src="https://img.icons8.com/color/48/chatbot.png" width="40">
+
 </td>
 </tr>
 
@@ -125,7 +121,7 @@ Machine Learning • Deep Learning • LLMs • LangChain • Generative AI
 <td>
 <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40"> &nbsp;
 <img src="https://img.icons8.com/color/48/api-settings.png" width="40"> &nbsp;
-<img src="https://img.icons8.com/color/48/chatbot.png" width="40">
+
 </td>
 </tr>
 
@@ -153,7 +149,8 @@ Machine Learning • Deep Learning • LLMs • LangChain • Generative AI
 
 </tr>
 </table>
-## 📊 3D Contribution Graph
+
+## 📊  Contribution Graph
 
 <p align="center">
 
