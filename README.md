@@ -33,7 +33,7 @@ Machine Learning • Deep Learning • LLMs • LangChain • Generative AI
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_stack.png" width="750"/>
+<img src="https://raw.githubusercontent.com/run-llama/llama_index/main/docs/_static/img/rag_pipeline.png" width="750"/>
 
 </p>
 
