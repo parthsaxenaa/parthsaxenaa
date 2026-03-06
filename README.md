@@ -15,6 +15,19 @@
 🤖 AI/ML enthusiast specializing in Machine Learning, Deep Learning, and Data Science. Passionate about building intelligent systems, solving complex problems, and leveraging data-driven solutions.
 
 ---
+## 🧠 Artificial Intelligence
+
+<p align="center">
+
+<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="400"/>
+
+</p>
+
+<p align="center">
+
+Machine Learning • Deep Learning • LLMs • LangChain • Generative AI
+
+</p>
 ## 🏆 GitHub Achievements  
 <div align="center">  
   <img src="https://github-trophy.vercel.app/?username=Navneetg2003&margin-w=10&theme=radical">
