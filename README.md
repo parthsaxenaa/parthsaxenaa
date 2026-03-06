@@ -29,13 +29,6 @@ Machine Learning • Deep Learning • LLMs • LangChain • Generative AI
 
 </p>
 
-## 🔗 LLM & LangChain Pipeline
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/run-llama/llama_index/main/docs/_static/img/rag_pipeline.png" width="750"/>
-
-</p>
 
 ## 🏆 GitHub Achievements  
 <div align="center">  
@@ -160,3 +153,10 @@ Machine Learning • Deep Learning • LLMs • LangChain • Generative AI
 
 </tr>
 </table>
+## 📊 3D Contribution Graph
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthsaxenaa&theme=tokyonight">
+
+</p>
