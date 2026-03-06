@@ -13,7 +13,7 @@
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nihalawasthi.nihalawasthi">
 </h1>
 </div>
-🤖 AI/ML enthusiast specializing in Machine Learning, Deep Learning, and Data Science. Passionate about building intelligent systems, solving complex problems, and leveraging data-driven solutions.
+🤖 AI/ML enthusiast specializing in **Machine Learning, Deep Learning, and Data Science**, with a growing focus on **Generative AI, Large Language Models (LLMs), and LangChain ecosystems**. Passionate about building intelligent systems, developing data-driven solutions, and applying AI to solve complex real-world challenges.
 
 ## 🧠 Artificial Intelligence
 
